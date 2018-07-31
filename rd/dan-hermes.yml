@@ -2,7 +2,7 @@
 uid: rd.dan-hermes
 name: Dan Hermes
 metadata:
-  title: Dan Hermes - Microsoft Regional Director, [add professional title]
+  title: Dan Hermes - Microsoft Regional Director, President
   description: Microsoft Regional Director
 remarks: |
   ## Bio
@@ -12,9 +12,9 @@ image:
   alt: "Dan Hermes"
   src: media/profiles/dan-hermes.jpg
 facebook: 
-twitter: 
-linkedin: 
+twitter: https://twitter.com/danhermes
+linkedin: https://www.linkedin.com/in/dan-hermes/
 location:
-  display: Massachusetts, United States
-  lat: 42.558430
-  long: -70.880051
+  display: Boston, Massachusetts, United States
+  lat: 42.3601
+  long: -71.0589
